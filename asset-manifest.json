@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/newp/static/css/main.4b23c1a0.css",
+    "main.js": "/newp/static/js/main.c4e683a8.js",
+    "static/media/oldp.png": "/newp/static/media/oldp.d2fed18802dd61892b2f.png",
+    "static/media/atov.jpg": "/newp/static/media/atov.4a1e2b3b65ee8d9be9eb.jpg",
+    "static/media/dc.png": "/newp/static/media/dc.ee1403d65e898ce82c14.png",
+    "static/media/logo.png": "/newp/static/media/logo.c1321e81d5ab9bf6e108.png",
+    "static/media/me.jpeg": "/newp/static/media/me.a8a7ce53f3b2dee05461.jpeg",
+    "static/media/img.JPG": "/newp/static/media/img.5a9faea6e8f250556d1f.JPG",
+    "static/media/Resume.pdf": "/newp/static/media/Resume.4a7529edfbbc793eeabb.pdf",
+    "static/media/sunlife.jpeg": "/newp/static/media/sunlife.8086b76f51f52f70a8ba.jpeg",
+    "static/media/app.jpeg": "/newp/static/media/app.5661366c0eff62bbb587.jpeg",
+    "static/media/CM.jpeg": "/newp/static/media/CM.1f5e1aa4e733f7daad2a.jpeg",
+    "static/media/avatar5.jpg": "/newp/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar7.jpg": "/newp/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
+    "static/media/avatar6.jpg": "/newp/static/media/avatar6.8fbcd9d41881b442663e.jpg",
+    "static/media/jira.png": "/newp/static/media/jira.a17773fa0f7494702339.png",
+    "index.html": "/newp/index.html",
+    "main.4b23c1a0.css.map": "/newp/static/css/main.4b23c1a0.css.map",
+    "main.c4e683a8.js.map": "/newp/static/js/main.c4e683a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b23c1a0.css",
+    "static/js/main.c4e683a8.js"
+  ]
+}
